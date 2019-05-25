@@ -1,7 +1,6 @@
 package com.ceviche.sareb.salvisapp;
 
 import android.content.Intent;
-import android.os.AsyncTask;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.design.widget.AppBarLayout;
@@ -35,9 +34,6 @@ import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
 import com.squareup.picasso.Picasso;
 
-import java.sql.Connection;
-import java.sql.SQLException;
-import java.sql.Statement;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -66,28 +62,6 @@ public class VerProducto extends AppCompatActivity {
             fotoDePerfil = elemento.getFotoPerfil();
             uid = elemento.getUsuarioUid();
             tlfContacto = elemento.getTlfContacto();
-
-           /* txtPerfilNombre.setText(nombre);
-            txtPerfilApellidos.setText(apellidos);
-            txtPerfilBiografia.setText(biografia);
-            txtPerfilPais.setText(pais);
-            txtPerfilCiudad.setText(ciudad);
-            txtPerfilDireccion.setText(direccion);
-*/
-           /* if (fotoDePerfil.isEmpty()){
-                Picasso.with(getApplicationContext())
-                        .load(R.mipmap.imagenperfilpordefecto_round)
-                        .resize(370,370)
-                        .into(ivImagenPerfil);
-            } else{
-                Picasso.with(getApplicationContext())
-                        .load(fotoDePerfil)
-                        .placeholder(R.mipmap.imagenperfilpordefecto_round)
-                        .resize(370,370)
-                        .into(ivImagenPerfil);
-            }
-
-*/
 
             Log.e("[[[[[[[[[[[[[[nombreUsuario]]]]]]]]]]]]]", nombre);
             Log.e("[[[[[[[[[[[[[[apellidos]]]]]]]]]]]]]", apellidos);
@@ -135,16 +109,6 @@ public class VerProducto extends AppCompatActivity {
                     startActivity(new Intent(VerProducto.this, InterfazPrincipalActivity.class));
                     break;
                 case R.id.navigation_contactar:
-                    /*ScrollView scroll = (ScrollView) findViewById(R.id.scrollproducto);
-                    scroll.fullScroll(View.FOCUS_DOWN);
-                    tvEmail.setText(Html.fromHtml("<b>Email: </b>" + email));
-
-                    if (tlfContacto.isEmpty()) {
-                        tlfContacto = "Sin métodos de contacto.";
-                    }
-
-                    tvMetodoContacto.setText(Html.fromHtml("<b>Método(s) de contacto: </b>" + tlfContacto));
-*/
                     Intent intent = new Intent(VerProducto.this, SuPerfilActivity.class);
                     intent.putExtra("usuarioCreadorUid", usuarioCreadorUid);
                     startActivity(intent);
@@ -238,25 +202,6 @@ public class VerProducto extends AppCompatActivity {
                 public boolean onLongClick(View v) {
 
                     registerForContextMenu(ivFotoProducto);
-
-
-                    /*Intent intent = new Intent(VerProducto.this, SuPerfilActivity.class);
-                    intent.putExtra("usuarioCreadorUid",usuarioCreadorUid);
-                    startActivity(intent);
-                    finish();*/
-                    // Load productsJoinUsersAL from BBDD
-                    //List<ProductUserTotalInfoPojo> listaDatosEnObjeto = BbddConection();
-                    //Toast.makeText(VerProducto.this, listaDatosEnObjeto.toString(), Toast.LENGTH_SHORT).show();
-                    //System.out.println("\n$%$%$%$%$%$%$%$%$%$%$%$%$%$%\n" + listaDatosEnObjeto + "\n$%$%$%$%$%$%$%$%$%$%$%$%$%$%\n");
-                    //Doregister doregister = new Doregister();
-                    //doregister.execute("");
-
-
-                   /* httpHandler handler = new httpHandler();
-                    String txt = handler.post("https://my-galaxy-catalogue-php.herokuapp.com/index.php");
-                    Toast.makeText(VerProducto.this, txt, Toast.LENGTH_SHORT).show();
-*/
-
 
                     ejecutarServicio("https://my-galaxy-catalogue-php.herokuapp.com/");
 
@@ -354,71 +299,7 @@ public class VerProducto extends AppCompatActivity {
 
     }
 
-    /**
-     * === BbddConection() ===
-     * Este metodo llama a la bbdd para obtener la info de la tabla y archivarla en un ArrayList
-     *
-     * @return Una lista con todo el contenido de la bbdd
-     */
 
-    /*public List<ProductUserTotalInfoPojo> BbddConection() {
-
-        //HashMap<Integer, String> columnas = new HashMap<Integer, String>();
-
-        List<ProductUserTotalInfoPojo> productsJoinUsersList = new ArrayList<ProductUserTotalInfoPojo>();
-        ProductUserTotalInfoPojo productUserTotalInfoPojoRabbit = new ProductUserTotalInfoPojo();
-
-        String query = "SELECT p.IdProduct, p.TituloProduct, u.UidUser, u.NomUser, u.ApeUser, p.DescProduct, p.PrecioProduct, p.ImgProduct, p.CategProduct, p.EstadoProduct, u.DirUser, u.CiuUser, u.PaisUser, u.EmailUser, u.FotoPerfilUser, u.BioUser, u.MetContactoUser FROM usuario u INNER JOIN producto p ON u.UidUser = p.UidUser";
-        try {
-            Class.forName("com.mysql.jdbc.Driver");
-            Connection conexion = DriverManager.getConnection("jdbc:mysql://remotemysql.com:3306/XigWZvmqYw", "XigWZvmqYw", "RP78oRmbYV");
-            Statement n = conexion.createStatement();
-            ResultSet listProductsJoinUsersRS = n.executeQuery(query);
-
-
-            while (listProductsJoinUsersRS.next()) {
-
-                productUserTotalInfoPojoRabbit.setIdProduct(listProductsJoinUsersRS.getString("IdProduct"));
-                productUserTotalInfoPojoRabbit.setTituloProduct(listProductsJoinUsersRS.getString("TituloProduct"));
-                productUserTotalInfoPojoRabbit.setUidUser(listProductsJoinUsersRS.getString("UidUser"));
-                productUserTotalInfoPojoRabbit.setNomUser(listProductsJoinUsersRS.getString("NomUser"));
-                productUserTotalInfoPojoRabbit.setApeUser(listProductsJoinUsersRS.getString("ApeUser"));
-                productUserTotalInfoPojoRabbit.setDescProduct(listProductsJoinUsersRS.getString("DescProduct"));
-                productUserTotalInfoPojoRabbit.setPrecioProduct(listProductsJoinUsersRS.getString("PrecioProduct"));
-                productUserTotalInfoPojoRabbit.setImgProduct(listProductsJoinUsersRS.getString("ImgProduct"));
-                //productUserTotalInfoPojoRabbit.setImgProduct("<img src=\"https://via.placeholder.com/150\" class=\"card-img-top\" alt=\"...\">");
-                productUserTotalInfoPojoRabbit.setCategProduct(listProductsJoinUsersRS.getString("CategProduct"));
-                productUserTotalInfoPojoRabbit.setEstadoProduct(listProductsJoinUsersRS.getString("EstadoProduct"));
-                productUserTotalInfoPojoRabbit.setDirUser(listProductsJoinUsersRS.getString("DirUser"));
-                productUserTotalInfoPojoRabbit.setCiuUser(listProductsJoinUsersRS.getString("CiuUser"));
-                productUserTotalInfoPojoRabbit.setPaisUser(listProductsJoinUsersRS.getString("PaisUser"));
-                productUserTotalInfoPojoRabbit.setEmailUser(listProductsJoinUsersRS.getString("EmailUser"));
-                //productUserTotalInfoPojoRabbit.setFotoPerfilUser(listProductsJoinUsersRS.getString("FotoPerfilUser"));
-                productUserTotalInfoPojoRabbit.setFotoPerfilUser("<img src=\"https://via.placeholder.com/150\" class=\"card-img-top\" alt=\"...\">");
-                productUserTotalInfoPojoRabbit.setBioUser(listProductsJoinUsersRS.getString("BioUser"));
-                productUserTotalInfoPojoRabbit.setMetContactoUser(listProductsJoinUsersRS.getString("MetContactoUser"));
-
-                productsJoinUsersList.add(productUserTotalInfoPojoRabbit);
-
-                // Reseteamos la fila para volver a rellenarse
-                productUserTotalInfoPojoRabbit = new ProductUserTotalInfoPojo();
-
-
-            }
-
-            System.out.println("LISTA ProductUserTotalInfoPojo creada ");
-
-        } catch (ClassNotFoundException e) {
-            System.out.println("CLASS NOT FOUND EXCEPTION UHHH");
-            e.printStackTrace();
-        } catch (SQLException e) {
-            System.out.println("SQLEXCEPTION UHHH");
-            e.printStackTrace();
-        }
-
-        return productsJoinUsersList;
-
-    } //BbddConection()*/
     @Override
     public void onCreateContextMenu(ContextMenu menu, View v, ContextMenu.ContextMenuInfo menuInfo) {
         super.onCreateContextMenu(menu, v, menuInfo);
@@ -459,61 +340,10 @@ public class VerProducto extends AppCompatActivity {
 
     }
 
-    public class Doregister extends AsyncTask<String, String, String> {
-
-        String z = "";
-        boolean isSuccess = false;
-
-        @Override
-        protected void onPreExecute() {
-
-        }
-
-        @Override
-        protected String doInBackground(String... params) {
-
-            try {
-                Connection conn = connectionMySQLClass.CONN();
-
-                if (conn == null) {
-                    z = "Please check your internet connection";
-                } else {
-
-                    String query = "INSERT INTO `producto` (`IdProduct`, `UidUser`, `TituloProduct`, `DescProduct`, `PrecioProduct`, `ImgProduct`, `CategProduct`, `EstadoProduct`) VALUES\n" +
-                            "('5', '4', 'Product1', 'Product1', 'Product1', 'Product1', 'Product1', 'Product1')";
-
-                    Statement stmt = conn.createStatement();
-                    stmt.executeUpdate(query);
-                    z = "REGISTER SUCCESSFULL";
-                    isSuccess = true;
-
-                }
-
-
-            } catch (SQLException e) {
-                e.printStackTrace();
-                isSuccess = false;
-                z = "Exceptions" + e;
-            }
-
-
-            return z;
-        }
-
-
-        @Override
-        protected void onPostExecute(String s) {
-
-            if (isSuccess) {
-                Toast.makeText(getBaseContext(), "" + z, Toast.LENGTH_LONG).show();
-            }
-
-        }
-
-
-    }
-
 
 }
+
+
+
 
 
