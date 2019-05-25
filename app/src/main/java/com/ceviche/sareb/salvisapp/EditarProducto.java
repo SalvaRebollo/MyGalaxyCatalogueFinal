@@ -70,6 +70,14 @@ public class EditarProducto extends AppCompatActivity {
     String idProductoAEditar;
     String nuevaFotoProducto = "SINFOTO";
 
+    private ProgressDialog progressDialog;
+    private DatabaseReference firebaseAuth;
+    private DatabaseReference productosDB;
+    private Uri imageUri;
+    private StorageReference filePath;
+    /////////////////////////////////////////////////////////////////
+    private StorageReference myFirebaseStorage;
+
     ///////////////////////
     DatabaseReference usuariosFirebase;
     DatabaseReference productosFirebase;
@@ -190,13 +198,7 @@ public class EditarProducto extends AppCompatActivity {
 
         }
     }; // FIN EventListener
-    private ProgressDialog progressDialog;
-    private DatabaseReference firebaseAuth;
-    private DatabaseReference productosDB;
-    private Uri imageUri;
-    private StorageReference filePath;
-    /////////////////////////////////////////////////////////////////
-    private StorageReference myFirebaseStorage;
+
 
 
     /////////////////////////////////////////////////////////////////////////////////////////////
@@ -501,6 +503,7 @@ public class EditarProducto extends AppCompatActivity {
         progressDialog.show();
 
         if (resultCode == RESULT_CANCELED) {
+            progressDialog.dismiss();
             return;
         }
         if (requestCode == GALLERY) {
@@ -539,6 +542,8 @@ public class EditarProducto extends AppCompatActivity {
                                 }
                             });// getDownloadUrl()
                         }
+
+
                     }); //putFile()
                     ///////////////////////////////////////////////
 

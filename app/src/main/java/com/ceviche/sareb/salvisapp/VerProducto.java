@@ -23,7 +23,6 @@ import com.android.volley.Response;
 import com.android.volley.VolleyError;
 import com.android.volley.toolbox.StringRequest;
 import com.android.volley.toolbox.Volley;
-import com.ceviche.sareb.salvisapp.Clases.ConexionMySQL.ConnectionMySQLClass;
 import com.ceviche.sareb.salvisapp.Clases.Usuarios;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
@@ -45,7 +44,7 @@ public class VerProducto extends AppCompatActivity {
     TextView tvTitulo, tvDescripcion, tvPrecio, tvEstado, tvCategoria, tvUsuario, tvEmail, tvMetodoContacto;
     ImageView ivFotoProducto, ivFotoUsuario;
     LinearLayout ilMyProfileContainer;
-    ConnectionMySQLClass connectionMySQLClass;
+
     ValueEventListener valueEventListener = new ValueEventListener() {
         @Override
         public void onDataChange(DataSnapshot dataSnapshot) {
@@ -142,7 +141,7 @@ public class VerProducto extends AppCompatActivity {
         ilMyProfileContainer = findViewById(R.id.ilMyProfileContainer);
         //tvDescripcion.setText("111DescripcionDescripcionDescripcionDescripcionDescripcionDescripcionDescripcionDescripcionDescripcionDescripcionDescripcionDescripcionDescripcionDescripcionDescripcionDescripcionDescripcionDescripcionDescripcionDescripcionDescripcionDescripcionDescripcionDescripcionDescripcionDescripcionDescripcionDescripcionDescripcionDescripcionDescripcionDescripcionDescripcionDescripcionDescripcionDescripcionDescripcionDescripcionDescripcionDescripcionDescripcionDescripcionDescripcionDescripcionDescripcionDescripcion222");
 
-        connectionMySQLClass = new ConnectionMySQLClass();
+
 
 
         Intent outputInterfazPrincipalDatosUsu = getIntent();

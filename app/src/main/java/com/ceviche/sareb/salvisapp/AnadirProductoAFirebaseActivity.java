@@ -344,6 +344,7 @@ public class AnadirProductoAFirebaseActivity extends AppCompatActivity {
         progressDialog.show();
 
         if (resultCode == RESULT_CANCELED) {
+            progressDialog.dismiss();
             return;
         }
         if (requestCode == GALLERY) {
