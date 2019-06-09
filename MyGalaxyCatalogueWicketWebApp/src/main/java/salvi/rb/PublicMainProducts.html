@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html xmlns:wicket="http://wicket.apache.org">
+	<head>
+		<meta charset="utf-8" />
+		<title>Apache Wicket Quickstart</title>
+		<link href='http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:regular,bold' rel='stylesheet' type='text/css' />
+		<link rel="stylesheet" href="style.css" type="text/css" media="screen" title="Stylesheet" />
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+		<wicket:head>
+			<style type="text/css">
+				table,th,td { border:1px solid black; padding: 3px; }
+				table { border-collapse:collapse; }
+
+			</style>
+		</wicket:head>
+
+
+	</head>
+	<body>
+		<div id="hd">
+			<div id="logo">
+				<img src="logo.png" width="50px" height="50px" alt="Wicket Logo" />
+				<h1>MyGalaxyCatalogue</h1>
+			</div>
+		</div>
+
+		<div id="infobd">
+
+
+			<!-- ==== PageDataView ==== -->
+			<h3>publicMainProducts</h3>
+			<div wicket:id="pagingNavigator" style="margin: auto;width: 51%;"></div><br>
+
+			<table class="tabla">
+
+				<tr>
+					<th>UidUser</th>
+					<th>NomUser</th>
+					<th>ApeUser</th>
+					<th>DirUser</th>
+					<th>CiuUser</th>
+					<th>PaisUser</th>
+					<th>EmailUser</th>
+					<th>FotoPerfilUser</th>
+					<th>BioUser</th>
+					<th>MetContactoUser</th>
+				</tr>
+
+				<tr wicket:id="rows">
+					<span wicket:id="dataRow"></span>
+				</tr>
+
+			</table><br>
+
+			<div class="border"></div><br>
+			<!-- ==== FIN PageDataView ==== -->
+
+		</div>
+
+
+
+	</body>
+</html>

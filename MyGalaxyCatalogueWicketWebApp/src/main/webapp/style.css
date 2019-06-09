@@ -1,0 +1,90 @@
+
+/* Para ordenadores */
+@media only screen and (min-width: 768px) {
+
+	body{
+		margin-bottom: 15px;
+	}
+
+	.centralContainer{
+		width: 30%;
+		display: flex;
+		justify-content: center;
+		flex-direction: column;
+		margin: 0 auto;
+	}
+
+	.title {
+		text-align: center;
+		margin: 0 auto;
+		margin-top: 15px;
+		margin-bottom: -6px;
+	}
+
+	.panelesContainer {
+		margin: 0 auto;
+		margin-bottom: 1%;
+	}
+
+	.panelX {
+		margin: 0 auto;
+	}
+
+	#separador{
+		height: 2px;
+		width: 84%;
+		background-color: blueviolet;
+		margin: 0 auto;
+		margin-bottom: 7px;
+		margin-top: 7px;
+	}
+
+
+}
+
+/* Para telefonos */
+@media only screen and (max-width: 767px) {
+
+	body{
+		margin-bottom: 15px;
+	}
+
+	.centralContainer{
+		width: 80%;
+		display: flex;
+		justify-content: center;
+		flex-direction: column;
+		margin: 0 auto;
+	}
+
+	.title {
+		text-align: center;
+		margin: 0 auto;
+		margin-top: 15px;
+		margin-bottom: -6px;
+		font-size: 32px;
+	}
+
+	.panelesContainer {
+		margin: 0 auto;
+		margin-bottom: 1%;
+	}
+
+	.panelX {
+		margin: 0 auto;
+	}
+
+	#separador{
+		height: 2px;
+		width: 84%;
+		background-color: blueviolet;
+		margin: 0 auto;
+		margin-bottom: 7px;
+		margin-top: 7px;
+	}
+
+
+
+
+}
+

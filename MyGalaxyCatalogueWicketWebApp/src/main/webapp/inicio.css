@@ -1,0 +1,243 @@
+/*-----------------
+1. Google font
+------------------*/
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,600,700,800');
+
+/*-------------------
+2. Theme Default CSS
+--------------------*/
+* {
+    outline: none;
+}
+
+a {
+    text-decoration: none;
+    outline: none;
+    -webkit-transition: 0.4s;
+    -o-transition: 0.4s;
+    transition: 0.4s;
+    color: #333333;
+}
+
+input:focus,
+button:focus,
+a:focus,
+a:hover {
+    text-decoration: none;
+    outline: none;
+    color: #768ede;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+
+
+
+h3 {
+    font-size: 32px;
+}
+
+html,
+body {
+    height: 100%
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 32px;
+    color: #8790af;
+}
+
+/* Remove Chrome Input Field's Unwanted Yellow Background Color */
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus {
+    -webkit-box-shadow: 0 0 0px 1000px white inset !important;
+}
+
+/*Inicio*/
+/*-- 14. Download-Area --*/
+.download-area {
+    background-image: url('assets/download-bg.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    margin-top: 133px;
+    margin-bottom: 100px;
+    color: #ffffff;
+}
+
+/*-- Overlay --*/
+.overlay {
+    position: relative;
+    z-index: 1;
+}
+
+.overlay:before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#482cbf+0,6ac6f0+100 */
+    background: rgb(72, 44, 191);
+    /* Old browsers */
+    /* FF3.6-15 */
+    background: -webkit-linear-gradient(45deg, rgba(72, 44, 191, 1) 0%, rgba(106, 198, 240, 1) 100%);
+    /* Chrome10-25,Safari5.1-6 */
+    background: -o-linear-gradient(45deg, rgba(72, 44, 191, 1) 0%, rgba(106, 198, 240, 1) 100%);
+    background: linear-gradient(45deg, rgba(72, 44, 191, 1) 0%, rgba(106, 198, 240, 1) 100%);
+    /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#482cbf', endColorstr='#6ac6f0', GradientType=1);
+    opacity: 0.8;
+    /* IE6-9 fallback on horizontal gradient */
+    z-index: -2;
+}
+
+/*-- Mobile Image --*/
+.download-area .mobile-image {
+    margin-top: -106px;
+    margin-bottom: -200px;
+}
+
+.home-area .mobile-image {
+    margin-right: 0;
+    margin-left: 0;
+    margin-bottom: -158px;
+}
+
+.progress-area .mobile-image {
+    margin-top: -90px;
+    margin-bottom: -153px;
+}
+
+.feature-area .mobile-image {
+    margin-bottom: -142px;
+}
+
+/*Section-padding*/
+.section-padding {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+/*-- Colors --*/
+.white-color {
+    color: #ffffff !important;
+}
+
+/*-- sq --*/
+.sq {
+    border-radius: 3px !important;
+}
+
+/*-- Button-Style --*/
+.bttn-white {
+    position: relative;
+    background: rgb(72, 44, 191);
+    background: -webkit-linear-gradient(45deg, rgba(72, 44, 191, 1) 0%, rgba(106, 198, 240, 1) 100%);
+    background: -o-linear-gradient(45deg, rgba(72, 44, 191, 1) 0%, rgba(106, 198, 240, 1) 100%);
+    background: linear-gradient(45deg, rgba(72, 44, 191, 1) 0%, rgba(106, 198, 240, 1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#482cbf', endColorstr='#6ac6f0', GradientType=1);
+    overflow: hidden;
+    z-index: 1;
+    margin-right: 10px;
+    border: none;
+}
+
+.bttn-white img {
+    height: 20px;
+    margin-right: 5px;
+    margin-top: -5px;
+    display: inline-block;
+}
+
+.bttn-white:before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #ffffff;
+    z-index: -1;
+    -webkit-transition: 0.3s;
+    -o-transition: 0.3s;
+    transition: 0.3s;
+    opacity: 1;
+}
+
+.bttn-white.active,
+.bttn-white:hover {
+    color: #ffffff;
+}
+
+.bttn-white.active:before,
+.bttn-white:hover:before {
+    opacity: 0;
+}
+
+.bttn-default,
+.bttn-white {
+    padding: 12px 30px;
+    background-color: #ffffff;
+    display: inline-block;
+    color: #768ede;
+    text-transform: uppercase;
+    border-radius: 50px;
+    letter-spacing: 1.5px;
+    font-weight: 700;
+    font-size: 14px;
+    -webkit-transition: 0.3s;
+    -o-transition: 0.3s;
+    transition: 0.3s;
+    border: none;
+}
+
+.bttn-default .lnr,
+.bttn-white .lnr {
+    margin-right: 10px;
+}
+
+.price-box .price-footer .bttn-white {
+    padding: 13px 50px;
+}
+
+.price-box .price-footer .bttn-white:before {
+    width: calc(100% - 4px);
+    height: calc(100% - 4px);
+    border-radius: 100px;
+    left: 2px;
+    top: 2px;
+}
+
+.subscribe-form form .bttn-white {
+    position: absolute;
+    right: 0;
+    top: 0;
+    margin-right: 0;
+}
+
+.buttonsContainer{
+    text-align: center;
+    margin-bottom: 23px;
+}
+
+@media only screen and (max-width: 767px) {
+    .section-padding {
+        padding-top: 164px;
+        text-align: center;
+    }
+
+    .buttonsContainer a {
+        width: 100%;
+    }
+
+}

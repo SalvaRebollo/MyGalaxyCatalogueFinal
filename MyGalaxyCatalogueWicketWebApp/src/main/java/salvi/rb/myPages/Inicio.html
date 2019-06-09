@@ -1,0 +1,96 @@
+<!doctype html>
+<html xmlns:wicket="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8">
+    <!--<meta name="viewport" content="width=device-width, initial-scale=1">-->
+    <!--<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">-->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+          integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="masonryGridStyle.css" type="text/css" media="screen" title="Stylesheet"/>
+    <link rel="stylesheet" href="inicio.css" type="text/css" media="screen" title="Stylesheet"/>
+    <meta content="width=device-width, initial-scale=1" name="viewport"/>
+    <script src="jquery.min.js"></script>
+    <script src="inicio.js"></script>
+
+</head>
+<body>
+
+<video autoplay muted loop id="myVideo">
+    <source src="assets/manlooptrim.mp4" type="video/mp4">
+</video>
+
+
+<div class="content">
+
+
+    <header>
+        <h1 class="logo">MyGalaxyCatalogue</h1>
+        <input type="checkbox" id="nav-toggle" class="nav-toggle">
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="myGalaxyCatalogue">Catálogo</a></li>
+                <li><a href="statistics">Estadísticas</a></li>
+                <li><a href="faq">F&Q</a></li>
+            </ul>
+        </nav>
+        <label for="nav-toggle" class="nav-toggle-label">
+            <span></span>
+        </label>
+    </header>
+    <div class="masonry-wrapper">
+
+        <!-- <h1 class="title" wicket:id="title" style="">hola</h1>-->
+
+        <div class="">
+
+            <!--ITEMS-->
+
+
+            <div class="download-area overlay">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xs-12 col-sm-6 hidden-sm">
+                            <figure class="mobile-image">
+                                <img src="assets/mgc-image-phone.png" alt="">
+                            </figure>
+                        </div>
+                        <div class="col-xs-12 col-md-6 section-padding">
+                            <h3 class="white-color">Descarga la App</h3>
+                            <div class="space-20"></div>
+                            <p>Descarga la Apk oficial para usuarios Android! Tambien puedes acceder al Source Code
+                                desde GitHub</p>
+                            <div class="space-60"></div>
+                            <div class="buttonsContainer">
+                                <a wicket:id="downloadLink" href="#" class="bttn-white sq"><img class="iconsbuttons"
+                                                                                                src="assets/apk-icon.svg"
+                                                                                                alt="APK icon">
+                                    Archivo APK</a>
+                                <a href="https://github.com/SalvaRebollo" class="bttn-white sq" target="_blank"><img
+                                        src="assets/githubicon.svg"
+                                        alt="GitHub icon">GitHub</a>
+                                <a href="myGalaxyCatalogue" class="bttn-white sq"><img src="assets/catalog.svg"
+                                                                                       alt="Catalogue icon">Versión Web</a>
+
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+        </div>
+
+        <div class="masonry-footer">
+            <a href="https://github.com/SalvaRebollo" target="_blank" rel="external noopener nofollow"><p>Created with
+                &#10084; by SalvaRebollo<br>Thanks to Apache Wicket Framework, Android Studio, Firebase, PHP & MySQL
+                technologies.</p></a>
+        </div>
+
+    </div>
+
+</div>
+
+</body>
+</html>

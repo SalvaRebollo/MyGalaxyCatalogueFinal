@@ -1,0 +1,1000 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/main/java/salvi/rb/WicketApplication.java" line="41" />
+    <bookmark url="file://$PROJECT_DIR$/src/main/java/salvi/rb/myPages/AllTheProductsWebPage.html" line="7" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e988151a-5db2-41ce-b988-ab04d56cbd9b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/salvi/rb/PublicMainProducts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/salvi/rb/PublicMainProducts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/salvi/rb/myClasses/BACKUPS/AllTheProductsWebPage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/salvi/rb/myClasses/BACKUPS/PanelCardProduct.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/salvi/rb/myClasses/BACKUPS/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/salvi/rb/myClasses/ProductPojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/salvi/rb/myClasses/ProductUserTotalInfoPojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/salvi/rb/myClasses/UserPojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/salvi/rb/myClasses/noUso/DatabaseConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/salvi/rb/myComponents/PanelCardProduct.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/salvi/rb/myComponents/PanelCardProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/salvi/rb/myPages/AllTheProductsWebPage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/salvi/rb/myPages/AllTheProductsWebPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/salvi/rb/myPages/MasonryView.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/salvi/rb/myPages/MasonryView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/Chart.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/LogicPhpMySQL/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/LogicPhpMySQL/controlador/producto/controller.producto.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/LogicPhpMySQL/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/LogicPhpMySQL/modelo/Database.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/LogicPhpMySQL/modelo/Producto.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/LogicPhpMySQL/modelo/Usuario.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/LogicPhpMySQLWithSelects/controlador/statistics/controller.statistics.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/LogicPhpMySQLWithSelects/modelo/Statistics.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/MyGalaxyCatalogue Exp.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/Webp.net-resizeimage.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/apple-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/download-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/download-image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/madison.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/play-store-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/faq.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/inicio.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/inicio.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="myGalaxyDatabase" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="myGalaxyDatabase" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="myGalaxyDatabase" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="XigWZvmqYw: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="myGalaxyDatabase" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="XigWZvmqYw: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="producto: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="myGalaxyDatabase" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="XigWZvmqYw: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="usuario: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/salvi/rb/myComponents/PanelMasonryProduct.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/salvi/rb/myComponents/PanelMasonryProduct.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1071">
+              <caret line="77" column="40" selection-start-line="77" selection-start-column="40" selection-end-line="77" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/masonryGridStyle.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="298">
+              <caret line="20" column="150" selection-start-line="20" selection-start-column="150" selection-end-line="20" selection-end-column="150" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/salvi/rb/myPages/Inicio.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="42" column="112" selection-start-line="42" selection-start-column="112" selection-end-line="42" selection-end-column="112" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/salvi/rb/myPages/MasonryView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1734">
+              <caret line="115" column="16" selection-start-line="115" selection-start-column="16" selection-end-line="115" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="WicketPanel" />
+        <option value="Class" />
+        <option value="WicketPage" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>src</find>
+      <find>overlay</find>
+      <find>row</find>
+      <find>hidden-sm</find>
+      <find>mobile</find>
+      <find>section</find>
+      <find>inicio</find>
+      <find>white-color</find>
+      <find>inici</find>
+      <find>space-20</find>
+      <find>bttn-white</find>
+      <find>sq</find>
+      <find>angle</find>
+      <find>iconsbuttons</find>
+      <find>sect</find>
+      <find>.bttn-white:hover</find>
+      <find>nav a</find>
+      <find>work</find>
+      <find>h3</find>
+      <find>h1</find>
+      <find>logo</find>
+      <find>sectio</find>
+      <find>buttonc</find>
+      <find>buttons</find>
+      <find>container</find>
+      <find>Three</find>
+      <find>titl</find>
+      <find>#1</find>
+      <find>flex</find>
+      <find>descri</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>9999</replace>
+      <replace>9443</replace>
+      <replace>this.</replace>
+      <replace>modelCardProductUser.getObject().;</replace>
+      <replace>cardProductUser</replace>
+      <replace>PanelMasonryProduct</replace>
+      <replace>Usuario</replace>
+      <replace>UidUser</replace>
+      <replace>usuario</replace>
+      <replace>getFecha</replace>
+      <replace>Fecha</replace>
+      <replace>Cantidad</replace>
+      <replace>Four</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/salvi/rb/PublicMainProducts.java" />
+        <option value="$PROJECT_DIR$/src/main/java/salvi/rb/OldPublicMainProducts.html" />
+        <option value="$PROJECT_DIR$/src/main/java/salvi/rb/PublicMainProducts.html" />
+        <option value="$PROJECT_DIR$/src/main/java/salvi/rb/MainPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/salvi/rb/myComponents/CardProductPanel.html" />
+        <option value="$PROJECT_DIR$/src/main/java/salvi/rb/myClasses/DatabaseConnection.java" />
+        <option value="$PROJECT_DIR$/src/main/java/salvi/rb/myClasses/ProductCardPojo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/salvi/rb/myClasses/ProductUserCard.java" />
+        <option value="$PROJECT_DIR$/src/main/java/salvi/rb/myComponents/CardProductPanel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/salvi/rb/myClasses/ProductPojo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/salvi/rb/myClasses/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/salvi/rb/myClasses/CardProductUser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/salvi/rb/myPages/AllTheProducts.java" />
+        <option value="$PROJECT_DIR$/src/main/java/salvi/rb/myPages/AllTheProducts.html" />
+        <option value="$PROJECT_DIR$/src/main/java/salvi/rb/myClasses/ProductUserTotalInfoPojo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/salvi/rb/myClasses/BACKUPS/style.css" />
+        <option value="$PROJECT_DIR$/src/main/webapp/style.css" />
+        <option value="$PROJECT_DIR$/src/main/java/salvi/rb/myComponents/PanelCardProduct.html" />
+        <option value="$PROJECT_DIR$/src/main/java/salvi/rb/myComponents/PanelCardProduct.java" />
+        <option value="$PROJECT_DIR$/src/main/java/salvi/rb/myPages/AllTheProductsWebPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/salvi/rb/myPages/AllTheProductsWebPage.html" />
+        <option value="$PROJECT_DIR$/src/main/java/salvi/rb/myPages/vistaGridMasonry.css" />
+        <option value="$PROJECT_DIR$/src/main/webapp/vistaGridMasonry.css" />
+        <option value="$PROJECT_DIR$/src/main/java/salvi/rb/myPages/masonry.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/masonry.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/LogicPhpMySQL/modelo/Usuario.php" />
+        <option value="$PROJECT_DIR$/src/main/webapp/LogicPhpMySQL/controlador/usuario/controller.usuario.php" />
+        <option value="$PROJECT_DIR$/src/main/webapp/LogicPhpMySQL/modelo/Producto.php" />
+        <option value="$PROJECT_DIR$/src/main/webapp/LogicPhpMySQLWithSelects/controlador/producto/controller.producto.php" />
+        <option value="$PROJECT_DIR$/src/main/webapp/LogicPhpMySQLWithSelects/modelo/Statistics.php" />
+        <option value="$PROJECT_DIR$/src/main/webapp/LogicPhpMySQLWithSelects/modelo/Producto.php" />
+        <option value="$PROJECT_DIR$/src/main/webapp/LogicPhpMySQLWithSelects/controlador/statistics/controller.statistics.php" />
+        <option value="$PROJECT_DIR$/src/main/webapp/my-galaxy-catalogue-php/controlador/statistics/controller.statistics.php" />
+        <option value="$PROJECT_DIR$/src/main/java/salvi/rb/myPages/Statistics.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/statisticsLogic.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/inicio.js" />
+        <option value="$PROJECT_DIR$/src/main/java/salvi/rb/myPages/faq.java" />
+        <option value="$PROJECT_DIR$/src/main/java/salvi/rb/myPages/faq.html" />
+        <option value="$PROJECT_DIR$/src/main/java/salvi/rb/myPages/Faq.java" />
+        <option value="$PROJECT_DIR$/src/main/java/salvi/rb/myPages/Statistics.html" />
+        <option value="$PROJECT_DIR$/src/main/java/salvi/rb/myPages/MasonryView.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/inicio.css" />
+        <option value="$PROJECT_DIR$/src/main/java/salvi/rb/myPages/Inicio.html" />
+        <option value="$PROJECT_DIR$/src/main/java/salvi/rb/myPages/Faq.html" />
+        <option value="$PROJECT_DIR$/src/main/java/salvi/rb/WicketApplication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/salvi/rb/myPages/MasonryView.java" />
+        <option value="$PROJECT_DIR$/src/main/java/salvi/rb/myComponents/PanelMasonryProduct.java" />
+        <option value="$PROJECT_DIR$/src/main/java/salvi/rb/myComponents/PanelMasonryProduct.html" />
+        <option value="$PROJECT_DIR$/src/main/java/salvi/rb/myPages/Inicio.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/masonryGridStyle.css" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="524" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="myGalaxyCatalogueWebApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myGalaxyCatalogueWebApp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myGalaxyCatalogueWebApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myGalaxyCatalogueWebApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myGalaxyCatalogueWebApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myGalaxyCatalogueWebApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myGalaxyCatalogueWebApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myGalaxyCatalogueWebApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myGalaxyCatalogueWebApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myGalaxyCatalogueWebApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="rb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myGalaxyCatalogueWebApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myGalaxyCatalogueWebApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="rb" type="462c0819:PsiDirectoryNode" />
+              <item name="myClasses" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myGalaxyCatalogueWebApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myGalaxyCatalogueWebApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="rb" type="462c0819:PsiDirectoryNode" />
+              <item name="myComponents" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myGalaxyCatalogueWebApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myGalaxyCatalogueWebApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="rb" type="462c0819:PsiDirectoryNode" />
+              <item name="myPages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myGalaxyCatalogueWebApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myGalaxyCatalogueWebApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myGalaxyCatalogueWebApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myGalaxyCatalogueWebApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myGalaxyCatalogueWebApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myGalaxyCatalogueWebApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558974707064" />
+    <property name="database.console.LAST_STATE" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/salvi/rb/myComponents" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="wicketforge.CreatePageDialog.CHOOSE_DIFFERENT_DESTINATION_KEY" value="false" />
+    <property name="wicketforge.CreatePageDialog.CREATE_MARKUP_KEY" value="true" />
+    <property name="wicketforge.CreatePanelDialog.CHOOSE_DIFFERENT_DESTINATION_KEY" value="true" />
+    <property name="wicketforge.CreatePanelDialog.CREATE_MARKUP_KEY" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sareb\AndroidStudioProjects\MyGalaxyCatalogue Proyecto Final de Grado\AppWeb\myGalaxyCatalogueWebApp\src\main\webapp\assets" />
+      <recent name="C:\Users\sareb\AndroidStudioProjects\MyGalaxyCatalogue Proyecto Final de Grado\AppWeb\myGalaxyCatalogueWebApp\src\main\webapp" />
+      <recent name="C:\Users\sareb\AndroidStudioProjects\MyGalaxyCatalogue Proyecto Final de Grado\AppWeb\myGalaxyCatalogueWebApp\src\main\java\salvi\rb\myPages" />
+      <recent name="C:\Users\sareb\AndroidStudioProjects\MyGalaxyCatalogue Proyecto Final de Grado\AppWeb\myGalaxyCatalogueWebApp\src\main\webapp\LogicPhpMySQLWithSelects\controlador" />
+      <recent name="C:\Users\sareb\AndroidStudioProjects\MyGalaxyCatalogue Proyecto Final de Grado\AppWeb\myGalaxyCatalogueWebApp\src\main\webapp\LogicPhpMySQLWithSelects\modelo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sareb\AndroidStudioProjects\MyGalaxyCatalogue Proyecto Final de Grado\AppWeb\myGalaxyCatalogueWebApp\src\main\webapp" />
+      <recent name="C:\Users\sareb\AndroidStudioProjects\MyGalaxyCatalogue Proyecto Final de Grado\AppWeb\myGalaxyCatalogueWebApp\src\main\java\salvi\rb\myPages" />
+      <recent name="C:\Users\sareb\AndroidStudioProjects\MyGalaxyCatalogue Proyecto Final de Grado\AppWeb\myGalaxyCatalogueWebApp\src\main\java\salvi\rb" />
+      <recent name="C:\Users\sareb\AndroidStudioProjects\MyGalaxyCatalogue Proyecto Final de Grado\AppWeb\myGalaxyCatalogueWebApp\src\main\java\salvi\rb\mySettings" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="salvi.rb" />
+    </key>
+    <key name="wicketforge.CreatePanelDialog.RECENT_EXTENDCLASS_KEY">
+      <recent name="org.apache.wicket.markup.html.panel.Panel" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="salvi.rb" />
+    </key>
+    <key name="wicketforge.CreatePageDialog.RECENT_EXTENDCLASS_KEY">
+      <recent name="org.apache.wicket.markup.html.WebPage" />
+      <recent name="org.apache.wicket.Page" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Start (Run)" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="salvi.rb.Start" />
+      <module name="myGalaxyCatalogueWebApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e988151a-5db2-41ce-b988-ab04d56cbd9b" name="Default Changelist" comment="" />
+      <created>1554999635256</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554999635256</updated>
+      <workItem from="1554999657738" duration="4927000" />
+      <workItem from="1555238141421" duration="17720000" />
+      <workItem from="1556709904889" duration="1365000" />
+      <workItem from="1557162123368" duration="524000" />
+      <workItem from="1557162704053" duration="2115000" />
+      <workItem from="1557337709133" duration="6068000" />
+      <workItem from="1557515684293" duration="1540000" />
+      <workItem from="1557517468785" duration="31000" />
+      <workItem from="1557517544241" duration="209000" />
+      <workItem from="1557517803347" duration="95000" />
+      <workItem from="1557517942057" duration="44534000" />
+      <workItem from="1557832257567" duration="18737000" />
+      <workItem from="1558023754931" duration="4396000" />
+      <workItem from="1558280970030" duration="12787000" />
+      <workItem from="1558372543880" duration="8019000" />
+      <workItem from="1558464117950" duration="53000" />
+      <workItem from="1558542028470" duration="442000" />
+      <workItem from="1558799342434" duration="16663000" />
+      <workItem from="1558825914436" duration="3077000" />
+      <workItem from="1558829050217" duration="326000" />
+      <workItem from="1558829425179" duration="85000" />
+      <workItem from="1558829555504" duration="308000" />
+      <workItem from="1558829920115" duration="519000" />
+      <workItem from="1558830523330" duration="4935000" />
+      <workItem from="1558864318875" duration="25024000" />
+      <workItem from="1558975058087" duration="1906000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="176405000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28366113" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Image Layers" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4969743" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.71558243" weight="0.1685761" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49621785" weight="0.12929623" />
+      <window_info anchor="bottom" id="Spring" order="7" sideWeight="0.49848714" weight="0.3289689" />
+      <window_info anchor="bottom" id="Database Console" order="8" sideWeight="0.49924356" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4977307" weight="0.3289689" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.28441754" side_tool="true" weight="0.28641573" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49394855" weight="0.29623568" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" sideWeight="0.49924356" weight="0.3289689" />
+      <window_info anchor="bottom" id="Database Changes" order="14" sideWeight="0.49848714" weight="0.3289689" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.108169444" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25189108" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Image Layers" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4969743" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.71558243" weight="0.2913257" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49621785" weight="0.12929623" />
+      <window_info anchor="bottom" id="Spring" order="7" sideWeight="0.49848714" weight="0.3289689" />
+      <window_info anchor="bottom" id="Database Console" order="8" sideWeight="0.49924356" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4977307" weight="0.3289689" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.28441754" side_tool="true" weight="0.28641573" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49394855" weight="0.29623568" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" sideWeight="0.49924356" weight="0.3289689" />
+      <window_info anchor="bottom" id="Database Changes" order="14" sideWeight="0.49848714" weight="0.3289689" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.108169444" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/wicket/wicket-core/6.30.0/wicket-core-6.30.0-sources.jar!/org/apache/wicket/Component.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="217" column="22" selection-start-line="217" selection-start-column="22" selection-end-line="217" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/wicket/wicket-core/6.30.0/wicket-core-6.30.0-sources.jar!/org/apache/wicket/markup/html/WebComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="36" column="37" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/wicket/wicket-core/6.30.0/wicket-core-6.30.0-sources.jar!/org/apache/wicket/model/Model.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="65" column="11" selection-start-line="65" selection-start-column="11" selection-end-line="65" selection-end-column="11" />
+          <folding>
+            <element signature="e#2189#2190#0" expanded="true" />
+            <element signature="e#2213#2214#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/wicket/wicket-core/6.30.0/wicket-core-6.30.0-sources.jar!/org/apache/wicket/markup/html/basic/Label.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="96" column="23" lean-forward="true" selection-start-line="96" selection-start-column="23" selection-end-line="96" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/salvi/rb/myClasses/BACKUPS/PanelCardProduct.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/salvi/rb/myClasses/BACKUPS/AllTheProductsWebPage.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/salvi/rb/myClasses/BACKUPS/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="25" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/salvi/rb/myClasses/ProductUserTotalInfoPojo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2074">
+          <caret line="188" column="44" selection-start-line="188" selection-start-column="44" selection-end-line="188" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3676#3677#0" expanded="true" />
+            <element signature="e#3714#3715#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/wicket/wicket-core/6.30.0/wicket-core-6.30.0-sources.jar!/org/apache/wicket/markup/html/image/Image.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="139" column="11" selection-start-line="139" selection-start-column="11" selection-end-line="139" selection-end-column="11" />
+          <folding>
+            <element signature="e#4865#4866#0" expanded="true" />
+            <element signature="e#4907#4908#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/vistaGridMasonry.css" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/masonry.js" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/salvi/rb/myPages/AllTheProductsWebPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/LogicPhpMySQL/modelo/Database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="54" column="20" selection-start-line="53" selection-start-column="30" selection-end-line="54" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/LogicPhpMySQL/controlador/usuario/controller.usuario.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="54" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/LogicPhpMySQL/controlador/producto/controller.producto.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="50" column="22" selection-start-line="50" selection-start-column="22" selection-end-line="50" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/salvi/rb/PublicMainProducts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="46" column="31" selection-start-line="46" selection-start-column="31" selection-end-line="46" selection-end-column="31" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/salvi/rb/OldPublicMainProducts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="46" column="31" selection-start-line="46" selection-start-column="31" selection-end-line="46" selection-end-column="31" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/salvi/rb/HomePage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="46" column="31" selection-start-line="46" selection-start-column="31" selection-end-line="46" selection-end-column="31" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/salvi/rb/myComponents/PanelCardProduct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+          <folding>
+            <element signature="e#4578#4579#0" expanded="true" />
+            <element signature="e#4612#4613#0" expanded="true" />
+            <element signature="e#4666#4667#0" expanded="true" />
+            <element signature="e#4712#4713#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/LogicPhpMySQL/modelo/Usuario.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="78" column="37" selection-start-line="78" selection-start-column="37" selection-end-line="78" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/LogicPhpMySQL/modelo/Producto.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1076">
+          <caret line="89" column="9" lean-forward="true" selection-start-line="89" selection-start-column="9" selection-end-line="89" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/LogicPhpMySQLWithSelects/controlador/producto/controller.producto.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="110" column="59" selection-start-line="110" selection-start-column="59" selection-end-line="110" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/LogicPhpMySQLWithSelects/controlador/statistics/controller.statistics.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/LogicPhpMySQLWithSelects/modelo/Statistics.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="48" column="33" selection-start-line="48" selection-start-column="33" selection-end-line="48" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/LogicPhpMySQLWithSelects/modelo/Producto.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="122" selection-start-line="122" selection-end-line="122" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/LogicPhpMySQLWithSelects/modelo/Usuario.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/my-galaxy-catalogue-php/modelo/Statistics.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-652" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/masonryGridStyle.css___jb_tmp___" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/masonryGridStyle.css___jb_old___" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/Chart.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/my-galaxy-catalogue-php/controlador/statistics/controller.statistics.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/assets/logo.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/faq.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/salvi/rb/myPages/Faq.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="33" column="45" selection-start-line="33" selection-start-column="45" selection-end-line="33" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/inicio.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/statisticsLogic.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="43" column="140" selection-start-line="43" selection-start-column="140" selection-end-line="43" selection-end-column="140" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/salvi/rb/myPages/Statistics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="33" column="86" selection-start-line="33" selection-start-column="86" selection-end-line="33" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/inicio.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3757">
+          <caret line="239" column="17" selection-start-line="239" selection-start-column="17" selection-end-line="239" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/salvi/rb/myPages/Inicio.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="106" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="8" selection-end-column="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/salvi/rb/WicketApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/salvi/rb/myPages/AllTheProductsWebPage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="118" selection-start-line="7" selection-start-column="4" selection-end-line="8" selection-end-column="118" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/salvi/rb/myPages/Statistics.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="30" column="30" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/salvi/rb/myPages/Faq.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="55" column="60" lean-forward="true" selection-start-line="55" selection-start-column="60" selection-end-line="55" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/salvi/rb/myComponents/PanelCardProduct.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="12" column="159" selection-start-line="12" selection-start-column="152" selection-end-line="12" selection-end-column="159" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/salvi/rb/myPages/MasonryView.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-510">
+          <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/salvi/rb/myComponents/PanelMasonryProduct.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/salvi/rb/myComponents/PanelMasonryProduct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="77" column="40" selection-start-line="77" selection-start-column="40" selection-end-line="77" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/salvi/rb/myPages/MasonryView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1734">
+          <caret line="115" column="16" selection-start-line="115" selection-start-column="16" selection-end-line="115" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/salvi/rb/myPages/Inicio.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="42" column="112" selection-start-line="42" selection-start-column="112" selection-end-line="42" selection-end-column="112" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/masonryGridStyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="20" column="150" selection-start-line="20" selection-start-column="150" selection-end-line="20" selection-end-column="150" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>myGalaxyCatalogueWebApp:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Wicket|myGalaxyCatalogueWebApp</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: org.apache.wicket:wicket-spring:unknown</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
