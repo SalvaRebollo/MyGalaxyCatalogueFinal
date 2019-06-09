@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scrollviewempecemos"
+    android:layout_width="401dp"
+    android:layout_height="match_parent"
+    android:clickable="true"
+    android:focusable="true"
+    android:focusableInTouchMode="true">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#fcfcfc"
+        android:clickable="true"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="10dp"
+        tools:context=".EmpecemosActivityHome">
+
+        <TextView
+            android:id="@+id/text_view_id"
+            android:layout_width="320dp"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/architects_daughter"
+            android:text="\nSe bienvenido a MyGalaxyCatalogue! 🎉"
+            android:textAlignment="center"
+            android:textColor="@color/com_facebook_button_send_background_color_pressed"
+            android:textSize="25dp"
+            android:textStyle="bold" />
+
+
+        <ImageView
+            android:id="@+id/gifEmpecemos"
+            android:layout_width="304dp"
+            android:layout_height="304dp"
+            android:layout_centerVertical="true"
+            android:layout_gravity="center"
+
+            android:layout_marginTop="35px"
+            android:layout_marginBottom="35px"
+
+            android:src="@drawable/logo" />
+
+        <TextView
+            android:id="@+id/text_view_id2"
+            android:layout_width="320dp"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/architects_daughter"
+            android:text="Empecemos por elegir tu foto de perfil."
+            android:textAlignment="center"
+            android:textColor="@color/green"
+            android:textSize="25dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/text_view_id3"
+            android:layout_width="320dp"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/architects_daughter"
+            android:text="¡Es la imagen con la que tus clientes potenciales te verán! 👌"
+            android:textAlignment="center"
+            android:textColor="@color/com_facebook_button_send_background_color_pressed"
+            android:textSize="25dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:text="Nota: No tienes porque salir en la imagen, puedes subir tu avatar/logo, tu perro, un bonito paisaje... Lo que quieras :)" />
+
+
+        <Button
+            android:id="@+id/btnAvatar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="Elegir avatar"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/btnOmitir"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="OMITIR"
+            android:textSize="20sp" />
+
+    </LinearLayout>
+</ScrollView>
