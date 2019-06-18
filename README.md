@@ -1,4 +1,3 @@
-# *Presentación en construcción*
 # MyGalaxyCatalogue
 <img width="400px" src="/img/logo.png">
 
