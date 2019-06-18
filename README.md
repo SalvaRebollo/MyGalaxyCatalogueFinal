@@ -68,29 +68,29 @@
 # MyGalaxyCatalogue Web App
 
 ## HOME
-<img width="400px" src="/img/home.gif">
-<img width="400px" src="/img/home.png">
+<img width="100%" src="/img/home.gif">
+<img width="100%" src="/img/home.png">
 
 ## Escaparate
 ### Versión Web/3 Columnas
-<img width="400px" src="/img/a3columnas.gif">
-<img width="400px" src="/img/escaparate.png">
+<img width="100%" src="/img/a3columnas.gif">
+<img width="100%" src="/img/escaparate.png">
 
 ### Versión Tablet/2 Columnas
-<img width="400px" src="/img/a2columnas.gif">
+<img width="100%" src="/img/a2columnas.gif">
 
 ### Versión Móvil/1 Columna
-<img width="400px" src="/img/a1columna.gif">
+<img width="100%" src="/img/a1columna.gif">
 
 ## Estadísticas
 ### Aquí podemos ver otra clase de información a modo de histórico en el que se recoge para ver gráficamente la cantidad de productos/servicios subidos ordenados por fecha en los últimos 10 días
-<img width="400px" src="/img/estadisticas.gif">
-<img width="400px" src="/img/estadisticas.png">
+<img width="100%" src="/img/estadisticas.gif">
+<img width="100%" src="/img/estadisticas.png">
 
 ## FAQ / Preguntas Frecuentes
 ### Aquí se recopila en forma de preguntas en un menú de acordeón los principales fuertes de la aplicación con información a destacar y cómo obtener la experiencia completa.
-<img width="400px" src="/img/faq.gif">
-<img width="400px" src="/img/faq.png">
+<img width="100%" src="/img/faq.gif">
+<img width="100%" src="/img/faq.png">
 
 
 ### Esto ha sido todo, puedes probar la aplicación en tu dispositivo Android descargando el fichero MyGalaxyCatalogue.apk que se encuentra en este repositorio. Gracias por su atención.
