@@ -22,6 +22,7 @@
 		- [Versión Móvil/1 Columna](#versión-móvil1-columna)
 	- [Estadísticas](#estadísticas)
 	- [FAQ / Preguntas Frecuentes](#faq--preguntas-frecuentes)
+	- [Descarga del APK](https://github.com/SalvaRebollo/MyGalaxyCatalogueFinal/blob/master/MyGalaxyCatalogue.apk)
 	
 # MyGalaxyCatalogue Android App
 
