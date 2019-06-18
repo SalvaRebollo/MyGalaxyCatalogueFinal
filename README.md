@@ -11,54 +11,56 @@
 <img width="800px" src="/img/screenshotsandpresentation/MyGalaxyCatalogue Exp_page-0003.jpg">
 <img width="800px" src="/img/screenshotsandpresentation/MyGalaxyCatalogue Exp_page-0004.jpg">
 
-#### Esta es la pantalla de bienvenida, es lo primero que encontraremos al abrir la aplicación. Como veis disponemos de tres botones, con "LOGIN" accederemos al home, al igual que con "INGRESAR DE FORMA ANÓNIMA", sólo que con esta última tendremos ciertas limitaciones como la creación de nuestro perfil o añadir productos, solo podremos echar un vistazo a lo que el resto de la comunidad ha compartido y ver el tabón de anuncios.
+#### Esta es la pantalla de bienvenida, es lo primero que encontraremos al abrir la aplicación. Como veis disponemos de tres botones, con "LOGIN" accederemos al home, al igual que con "INGRESAR DE FORMA ANÓNIMA", sólo que con esta última tendremos ciertas limitaciones como la creación de nuestro perfil o añadir productos, solo podremos echar un vistazo a lo que el resto de la comunidad ha compartido y ver el tablón de anuncios.
 <img width="400px" src="/img/1 (6).jpeg">
 
 <img width="800px" src="/img/screenshotsandpresentation/MyGalaxyCatalogue Exp_page-0005.jpg">
 
-#### Pantalla de registro
+## Pantalla de registro
 
 <img width="400px" src="/img/1 (5).jpeg">
 
 <img width="800px" src="/img/screenshotsandpresentation/MyGalaxyCatalogue Exp_page-0006.jpg">
 
-#### HOME: Aquí se muestra nuestro catálogo con los productos que hemos ido añadiendo + los del resto de la comunidad. Como peculiaridad y gracias a la tecnología de Firebase no hay absolutamente ningún botón de cargar o actualizar en toda la aplicación, ya que esta se mantendrá 100% actualizada en tiempo real mientras tenga conexión a internet.
+## HOME: 
+
+#### Aquí se muestra nuestro catálogo con los productos que hemos ido añadiendo + los del resto de la comunidad. Como peculiaridad y gracias a la tecnología de Firebase no hay absolutamente ningún botón de cargar o actualizar en toda la aplicación, ya que esta se mantendrá 100% actualizada en tiempo real mientras tenga conexión a internet.
 <div>
   <img width="400px" src="/img/1 (4).gif">
   <img width="400px" src="/img/1 (4).jpeg">
 </div>
 
-#### Perfil del usuario logeado
+## Perfil del usuario logeado
 <div>
   <img width="400px" src="/img/2.gif">
   <img width="400px" src="/img/perfil.jpeg">
 </div>
 
-#### Visitando un perfil de la comunidad
+## Visitando un perfil de la comunidad
 <div>
   <img width="400px" src="/img/verPerfil.gif">
   <img width="400px" src="/img/verPerfil.jpeg">
 </div>
 
-#### Cuando pulsamos un producto se nos abre su información para poder verla más en detalle y contactar con el creador:
+### Cuando pulsamos un producto se nos abre su información para poder verla más en detalle y contactar con el creador:
 <img width="400px" src="/img/1 (8).gif">
 
-#### Añadir un producto/servicio:
+## Añadir un producto/servicio:
 <div>
   <img width="400px" src="/img/1 (1).gif">
 </div>
 
-### Elegir entre cámara o galería
+## Elegir entre cámara o galería
 <div>
   <img width="400px" src="/img/modalElegirImg.gif">
 </div>
 
-#### Para borrar y editar un producto/servicio:
+## Para borrar y editar un producto/servicio:
 <div>
   <img width="400px" src="/img/1 (6).gif">
 </div>
 
-#### Tablón de novedades, botón "Acerca de la app" creado para publicar las próximas actualizaciones y novedades de la aplicación.
+## Tablón de novedades, botón "Acerca de la app" creado para publicar las próximas actualizaciones y novedades de la aplicación.
 <div>
   <img width="400px" src="/img/1.gif">
 </div>
