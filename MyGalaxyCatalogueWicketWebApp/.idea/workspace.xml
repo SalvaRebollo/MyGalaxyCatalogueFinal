@@ -20,6 +20,7 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/salvi/rb/myComponents/PanelCardProduct.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/salvi/rb/myPages/AllTheProductsWebPage.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/salvi/rb/myPages/AllTheProductsWebPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/salvi/rb/myPages/Faq.properties" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/salvi/rb/myPages/MasonryView.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/salvi/rb/myPages/MasonryView.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/webapp/Chart.min.js" afterDir="false" />
@@ -108,7 +109,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/salvi/rb/myComponents/PanelMasonryProduct.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1071">
+            <state relative-caret-position="347">
               <caret line="77" column="40" selection-start-line="77" selection-start-column="40" selection-end-line="77" selection-end-column="40" />
             </state>
           </provider>
@@ -117,32 +118,70 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/masonryGridStyle.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="298">
-              <caret line="20" column="150" selection-start-line="20" selection-start-column="150" selection-end-line="20" selection-end-column="150" />
+            <state relative-caret-position="313">
+              <caret line="62" column="13" selection-start-line="62" selection-start-column="13" selection-end-line="62" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/salvi/rb/myPages/Inicio.java">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/LogicPhpMySQL/modelo/Database.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="42" column="112" selection-start-line="42" selection-start-column="112" selection-end-line="42" selection-end-column="112" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="91">
+              <caret line="51" column="37" selection-start-line="51" selection-start-column="37" selection-end-line="51" selection-end-column="37" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/salvi/rb/myPages/Faq.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-480">
+              <caret line="8" column="40" lean-forward="true" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/salvi/rb/myPages/Faq.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="52" column="19" lean-forward="true" selection-start-line="52" selection-start-column="19" selection-end-line="52" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/salvi/rb/myPages/Faq.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="471" selection-start-line="5" selection-start-column="471" selection-end-line="5" selection-end-column="471" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/salvi/rb/myPages/MasonryView.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1734">
+            <state relative-caret-position="506">
               <caret line="115" column="16" selection-start-line="115" selection-start-column="16" selection-end-line="115" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/salvi/rb/myPages/MasonryView.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
             </state>
           </provider>
         </entry>
@@ -160,14 +199,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>src</find>
-      <find>overlay</find>
-      <find>row</find>
-      <find>hidden-sm</find>
-      <find>mobile</find>
-      <find>section</find>
-      <find>inicio</find>
-      <find>white-color</find>
       <find>inici</find>
       <find>space-20</find>
       <find>bttn-white</find>
@@ -190,6 +221,14 @@
       <find>#1</find>
       <find>flex</find>
       <find>descri</find>
+      <find>label</find>
+      <find>propert</find>
+      <find>css</find>
+      <find>desde es</find>
+      <find>y por u</find>
+      <find>orígenes</find>
+      <find>br</find>
+      <find>item</find>
     </findStrings>
     <replaceStrings>
       <replace>9999</replace>
@@ -206,6 +245,9 @@
       <replace>Cantidad</replace>
       <replace>Four</replace>
     </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\sareb\AndroidStudioProjects\MyGalaxyCatalogue Proyecto Final de Grado\AppWeb\myGalaxyCatalogueWebApp\src\main\java\salvi\rb\myPages</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -213,8 +255,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/salvi/rb/PublicMainProducts.java" />
         <option value="$PROJECT_DIR$/src/main/java/salvi/rb/OldPublicMainProducts.html" />
         <option value="$PROJECT_DIR$/src/main/java/salvi/rb/PublicMainProducts.html" />
         <option value="$PROJECT_DIR$/src/main/java/salvi/rb/MainPage.java" />
@@ -252,17 +292,19 @@
         <option value="$PROJECT_DIR$/src/main/webapp/inicio.js" />
         <option value="$PROJECT_DIR$/src/main/java/salvi/rb/myPages/faq.java" />
         <option value="$PROJECT_DIR$/src/main/java/salvi/rb/myPages/faq.html" />
-        <option value="$PROJECT_DIR$/src/main/java/salvi/rb/myPages/Faq.java" />
         <option value="$PROJECT_DIR$/src/main/java/salvi/rb/myPages/Statistics.html" />
         <option value="$PROJECT_DIR$/src/main/java/salvi/rb/myPages/MasonryView.html" />
         <option value="$PROJECT_DIR$/src/main/webapp/inicio.css" />
         <option value="$PROJECT_DIR$/src/main/java/salvi/rb/myPages/Inicio.html" />
-        <option value="$PROJECT_DIR$/src/main/java/salvi/rb/myPages/Faq.html" />
         <option value="$PROJECT_DIR$/src/main/java/salvi/rb/WicketApplication.java" />
         <option value="$PROJECT_DIR$/src/main/java/salvi/rb/myPages/MasonryView.java" />
         <option value="$PROJECT_DIR$/src/main/java/salvi/rb/myComponents/PanelMasonryProduct.java" />
         <option value="$PROJECT_DIR$/src/main/java/salvi/rb/myComponents/PanelMasonryProduct.html" />
         <option value="$PROJECT_DIR$/src/main/java/salvi/rb/myPages/Inicio.java" />
+        <option value="$PROJECT_DIR$/src/main/java/salvi/rb/myPages/Faq.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/Faq.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/salvi/rb/myPages/Faq.java" />
+        <option value="$PROJECT_DIR$/src/main/java/salvi/rb/myPages/Faq.properties" />
         <option value="$PROJECT_DIR$/src/main/webapp/masonryGridStyle.css" />
       </list>
     </option>
@@ -287,8 +329,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -369,7 +411,45 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="LogicPhpMySQL" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myGalaxyCatalogueWebApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myGalaxyCatalogueWebApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="LogicPhpMySQL" type="462c0819:PsiDirectoryNode" />
+              <item name="controlador" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myGalaxyCatalogueWebApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myGalaxyCatalogueWebApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="LogicPhpMySQL" type="462c0819:PsiDirectoryNode" />
+              <item name="controlador" type="462c0819:PsiDirectoryNode" />
+              <item name="producto" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myGalaxyCatalogueWebApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myGalaxyCatalogueWebApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="LogicPhpMySQL" type="462c0819:PsiDirectoryNode" />
+              <item name="controlador" type="462c0819:PsiDirectoryNode" />
+              <item name="usuario" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myGalaxyCatalogueWebApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myGalaxyCatalogueWebApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="LogicPhpMySQL" type="462c0819:PsiDirectoryNode" />
+              <item name="modelo" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -381,7 +461,7 @@
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558974707064" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560863437422" />
     <property name="database.console.LAST_STATE" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/salvi/rb/myComponents" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -400,15 +480,15 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sareb\AndroidStudioProjects\MyGalaxyCatalogue Proyecto Final de Grado\AppWeb\myGalaxyCatalogueWebApp\src\main\resources" />
       <recent name="C:\Users\sareb\AndroidStudioProjects\MyGalaxyCatalogue Proyecto Final de Grado\AppWeb\myGalaxyCatalogueWebApp\src\main\webapp\assets" />
       <recent name="C:\Users\sareb\AndroidStudioProjects\MyGalaxyCatalogue Proyecto Final de Grado\AppWeb\myGalaxyCatalogueWebApp\src\main\webapp" />
       <recent name="C:\Users\sareb\AndroidStudioProjects\MyGalaxyCatalogue Proyecto Final de Grado\AppWeb\myGalaxyCatalogueWebApp\src\main\java\salvi\rb\myPages" />
       <recent name="C:\Users\sareb\AndroidStudioProjects\MyGalaxyCatalogue Proyecto Final de Grado\AppWeb\myGalaxyCatalogueWebApp\src\main\webapp\LogicPhpMySQLWithSelects\controlador" />
-      <recent name="C:\Users\sareb\AndroidStudioProjects\MyGalaxyCatalogue Proyecto Final de Grado\AppWeb\myGalaxyCatalogueWebApp\src\main\webapp\LogicPhpMySQLWithSelects\modelo" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\sareb\AndroidStudioProjects\MyGalaxyCatalogue Proyecto Final de Grado\AppWeb\myGalaxyCatalogueWebApp\src\main\webapp" />
       <recent name="C:\Users\sareb\AndroidStudioProjects\MyGalaxyCatalogue Proyecto Final de Grado\AppWeb\myGalaxyCatalogueWebApp\src\main\java\salvi\rb\myPages" />
+      <recent name="C:\Users\sareb\AndroidStudioProjects\MyGalaxyCatalogue Proyecto Final de Grado\AppWeb\myGalaxyCatalogueWebApp\src\main\webapp" />
       <recent name="C:\Users\sareb\AndroidStudioProjects\MyGalaxyCatalogue Proyecto Final de Grado\AppWeb\myGalaxyCatalogueWebApp\src\main\java\salvi\rb" />
       <recent name="C:\Users\sareb\AndroidStudioProjects\MyGalaxyCatalogue Proyecto Final de Grado\AppWeb\myGalaxyCatalogueWebApp\src\main\java\salvi\rb\mySettings" />
     </key>
@@ -483,11 +563,14 @@
       <workItem from="1558830523330" duration="4935000" />
       <workItem from="1558864318875" duration="25024000" />
       <workItem from="1558975058087" duration="1906000" />
+      <workItem from="1560062057473" duration="625000" />
+      <workItem from="1560407936353" duration="1330000" />
+      <workItem from="1560763090059" duration="9130000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="176405000" />
+    <option name="totallyTimeSpent" value="187490000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -502,7 +585,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28366113" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24659607" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -512,7 +595,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4969743" weight="0.3289689" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.71558243" weight="0.1685761" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.71558243" visible="true" weight="0.09328969" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -576,31 +659,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/wicket/wicket-core/6.30.0/wicket-core-6.30.0-sources.jar!/org/apache/wicket/Component.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="217" column="22" selection-start-line="217" selection-start-column="22" selection-end-line="217" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/wicket/wicket-core/6.30.0/wicket-core-6.30.0-sources.jar!/org/apache/wicket/markup/html/WebComponent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="36" column="37" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/wicket/wicket-core/6.30.0/wicket-core-6.30.0-sources.jar!/org/apache/wicket/model/Model.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="65" column="11" selection-start-line="65" selection-start-column="11" selection-end-line="65" selection-end-column="11" />
-          <folding>
-            <element signature="e#2189#2190#0" expanded="true" />
-            <element signature="e#2213#2214#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/wicket/wicket-core/6.30.0/wicket-core-6.30.0-sources.jar!/org/apache/wicket/markup/html/basic/Label.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -646,34 +704,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/vistaGridMasonry.css" />
     <entry file="file://$PROJECT_DIR$/src/main/webapp/masonry.js" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/salvi/rb/myPages/AllTheProductsWebPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/LogicPhpMySQL/modelo/Database.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="54" column="20" selection-start-line="53" selection-start-column="30" selection-end-line="54" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/LogicPhpMySQL/controlador/usuario/controller.usuario.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" column="54" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/LogicPhpMySQL/controlador/producto/controller.producto.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="850">
-          <caret line="50" column="22" selection-start-line="50" selection-start-column="22" selection-end-line="50" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -795,13 +829,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/webapp/faq.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/salvi/rb/myPages/Faq.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="33" column="45" selection-start-line="33" selection-start-column="45" selection-end-line="33" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/inicio.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -857,13 +884,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/salvi/rb/myPages/Faq.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="55" column="60" lean-forward="true" selection-start-line="55" selection-start-column="60" selection-end-line="55" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/salvi/rb/myComponents/PanelCardProduct.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
@@ -871,10 +891,75 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/salvi/rb/myPages/MasonryView.html">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/LogicPhpMySQL/controlador/producto/controller.producto.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-510">
-          <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+        <state relative-caret-position="1292">
+          <caret line="76" column="46" selection-start-line="76" selection-start-column="46" selection-end-line="76" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/LogicPhpMySQL/modelo/Database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="51" column="37" selection-start-line="51" selection-start-column="37" selection-end-line="51" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/salvi/rb/OldPublicMainProducts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="48" column="12" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/salvi/rb/myPages/AllTheProductsWebPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="32" column="19" lean-forward="true" selection-start-line="31" selection-start-column="8" selection-end-line="32" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/salvi/rb/myPages/Inicio.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="42" column="112" selection-start-line="42" selection-start-column="112" selection-end-line="42" selection-end-column="112" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/salvi/rb/myPages/Faq.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="52" column="19" lean-forward="true" selection-start-line="52" selection-start-column="19" selection-end-line="52" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/salvi/rb/myPages/Faq.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="471" selection-start-line="5" selection-start-column="471" selection-end-line="5" selection-end-column="471" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/salvi/rb/myComponents/PanelMasonryProduct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="77" column="40" selection-start-line="77" selection-start-column="40" selection-end-line="77" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/salvi/rb/myPages/Faq.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-480">
+          <caret line="8" column="40" lean-forward="true" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
         </state>
       </provider>
     </entry>
@@ -885,16 +970,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/salvi/rb/myComponents/PanelMasonryProduct.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1071">
-          <caret line="77" column="40" selection-start-line="77" selection-start-column="40" selection-end-line="77" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/salvi/rb/myPages/MasonryView.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1734">
+        <state relative-caret-position="506">
           <caret line="115" column="16" selection-start-line="115" selection-start-column="16" selection-end-line="115" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -902,20 +980,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/salvi/rb/myPages/Inicio.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/salvi/rb/myPages/MasonryView.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="42" column="112" selection-start-line="42" selection-start-column="112" selection-end-line="42" selection-end-column="112" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="323">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/masonryGridStyle.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="20" column="150" selection-start-line="20" selection-start-column="150" selection-end-line="20" selection-end-column="150" />
+        <state relative-caret-position="313">
+          <caret line="62" column="13" selection-start-line="62" selection-start-column="13" selection-end-line="62" selection-end-column="13" />
         </state>
       </provider>
     </entry>

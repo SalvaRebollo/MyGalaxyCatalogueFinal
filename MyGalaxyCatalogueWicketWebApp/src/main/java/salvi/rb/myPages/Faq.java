@@ -6,6 +6,7 @@ import org.apache.wicket.markup.html.list.ListItem;
 import org.apache.wicket.markup.html.list.ListView;
 import org.apache.wicket.model.Model;
 import org.apache.wicket.model.PropertyModel;
+import org.apache.wicket.model.ResourceModel;
 import org.apache.wicket.request.mapper.parameter.PageParameters;
 import salvi.rb.myClasses.ProductUserTotalInfoPojo;
 import salvi.rb.myComponents.PanelCardProduct;
@@ -31,8 +32,30 @@ public class Faq extends WebPage {
         super.onInitialize();
         // TODO Add your page's components here
 
+
+
         Label title = new Label("title", "FAQ");
         add(title);
+
+        Label faqq1 = (Label) new Label("faqq1", new ResourceModel("faqq1")).setEscapeModelStrings(false);
+        add(faqq1);
+        Label faqr1 = (Label) new Label("faqr1", new ResourceModel("faqr1")).setEscapeModelStrings(false);
+        add(faqr1);
+
+        Label faqq2 = (Label) new Label("faqq2", new ResourceModel("faqq2")).setEscapeModelStrings(false);
+        add(faqq2);
+        Label faqr2 = (Label) new Label("faqr2", new ResourceModel("faqr2")).setEscapeModelStrings(false);
+        add(faqr2);
+
+        Label faqq3 = (Label) new Label("faqq3", new ResourceModel("faqq3")).setEscapeModelStrings(false);
+        add(faqq3);
+        Label faqr3 = (Label) new Label("faqr3", new ResourceModel("faqr3")).setEscapeModelStrings(false);
+        add(faqr3);
+
+        Label faqq4 = (Label) new Label("faqq4", new ResourceModel("faqq4")).setEscapeModelStrings(false);
+        add(faqq4);
+        Label faqr4 = (Label) new Label("faqr4", new ResourceModel("faqr4")).setEscapeModelStrings(false);
+        add(faqr4);
 
 
 
