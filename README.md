@@ -5,7 +5,8 @@
 ## Developed by SalvaRebollo 2º Desarrollo de Aplicaciones Multiplataforma
 
 ## Índice
-1. [Aplicación Android](#mygalaxycatalogue-android-app)
+1. [Tecnologías utilizadas](#tecnologías-utilizadas)
+2. [Aplicación Android](#mygalaxycatalogue-android-app)
     - [Home](#home)
     - [Perfil del usuario logeado](#perfil-del-usuario-logeado)
 	- [Visitando un perfil de la comunidad](#visitando-un-perfil-de-la-comunidad)
@@ -14,7 +15,7 @@
 	- [Elegir entre cámara o galería](#elegir-entre-cámara-o-galería)
 	- [Para borrar y editar un producto/servicio](#para-borrar-y-editar-un-productoservicio)
 	- [Tablón de novedades](#tablón-de-novedades-botón-acerca-de-la-app-creado-para-publicar-las-próximas-actualizaciones-y-novedades-de-la-aplicación)
-2. [Aplicación Web](#mygalaxycatalogue-web-app)
+3. [Aplicación Web](#mygalaxycatalogue-web-app)
     - [Home](#home-1)
 	- [Escaparate](#escaparate)
 		- [Versión Web/3 Columnas](#versión-web3-columnas)
@@ -22,27 +23,31 @@
 		- [Versión Móvil/1 Columna](#versión-móvil1-columna)
 	- [Estadísticas](#estadísticas)
 	- [FAQ / Preguntas Frecuentes](#faq--preguntas-frecuentes)
-	- [Descarga del APK](https://github.com/SalvaRebollo/MyGalaxyCatalogueFinal/blob/master/MyGalaxyCatalogue.apk)
+4. [Descarga del APK](https://github.com/SalvaRebollo/MyGalaxyCatalogueFinal/blob/master/MyGalaxyCatalogue.apk)
+
+# Tecnologías utilizadas
+<img width="100%" src="/img/tecnologias1.jpg">
+<img width="100%" src="/img/tecnologias2.jpg">
 	
 # MyGalaxyCatalogue Android App
 
 ### Aplicación para dispositivos móviles basada en Android Studio y Firebase (Realtime Database, Storage y Auth), está sencilla aplicación nos permite crear nuestro propio catálogo de productos/servicios/etc y almacenarla en la nube para que el resto de la comunidad pueda contactar con usted, vamos a echar un vistazo a su interfaz:
 
-<img width="800px" src="/img/screenshotsandpresentation/MyGalaxyCatalogue Exp_page-0001.jpg">
-<img width="800px" src="/img/screenshotsandpresentation/MyGalaxyCatalogue Exp_page-0002.jpg">
-<img width="800px" src="/img/screenshotsandpresentation/MyGalaxyCatalogue Exp_page-0003.jpg">
-<img width="800px" src="/img/screenshotsandpresentation/MyGalaxyCatalogue Exp_page-0004.jpg">
+<img width="100%" src="/img/screenshotsandpresentation/MyGalaxyCatalogue Exp_page-0001.jpg">
+<img width="100%" src="/img/screenshotsandpresentation/MyGalaxyCatalogue Exp_page-0002.jpg">
+<img width="100%" src="/img/screenshotsandpresentation/MyGalaxyCatalogue Exp_page-0003.jpg">
+<img width="100%" src="/img/screenshotsandpresentation/MyGalaxyCatalogue Exp_page-0004.jpg">
 
 #### Esta es la pantalla de bienvenida, es lo primero que encontraremos al abrir la aplicación. Como veis disponemos de tres botones, con "LOGIN" accederemos al home, al igual que con "INGRESAR DE FORMA ANÓNIMA", sólo que con esta última tendremos ciertas limitaciones como la creación de nuestro perfil o añadir productos, solo podremos echar un vistazo a lo que el resto de la comunidad ha compartido y ver el tablón de anuncios.
 <img width="400px" src="/img/1 (6).jpeg">
 
-<img width="800px" src="/img/screenshotsandpresentation/MyGalaxyCatalogue Exp_page-0005.jpg">
+<img width="100%" src="/img/screenshotsandpresentation/MyGalaxyCatalogue Exp_page-0005.jpg">
 
 ## Pantalla de registro
 
 <img width="400px" src="/img/1 (5).jpeg">
 
-<img width="800px" src="/img/screenshotsandpresentation/MyGalaxyCatalogue Exp_page-0006.jpg">
+<img width="100%" src="/img/screenshotsandpresentation/MyGalaxyCatalogue Exp_page-0006.jpg">
 
 ## HOME: 
 
