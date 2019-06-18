@@ -5,9 +5,13 @@
 ## Developed by SalvaRebollo 2º Desarrollo de Aplicaciones Multiplataforma
 
 ## Índice
-
+1. [Aplicación Android](#mygalaxycatalogue-android-app)
+    - [Aplicación Android](#mygalaxycatalogue-android-app)
+    - [Aplicación Web](#mygalaxycatalogue-web-app)
+2. [Aplicación Web](#mygalaxycatalogue-web-app)
+    - [Aplicación Android](#mygalaxycatalogue-android-app)
+	
 * [Aplicación Android](#mygalaxycatalogue-android-app)
-** [Aplicación Android](#mygalaxycatalogue-android-app)
 * [Aplicación Web](#mygalaxycatalogue-web-app)
 
 # MyGalaxyCatalogue Android App
