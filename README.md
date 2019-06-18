@@ -6,8 +6,8 @@
 
 ## Índice
 
-* [Aplicación Android](#mygalaxycatalogue_android_app)
-* [Aplicación Web](#mygalaxycatalogue_web_app)
+* [Aplicación Android](#mygalaxycatalogue-android-app)
+* [Aplicación Web](#mygalaxycatalogue-web-app)
 
 # MyGalaxyCatalogue Android App
 
