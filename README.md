@@ -16,10 +16,13 @@
 	- [Tablón de novedades](#tablón-de-novedades-botón-acerca-de-la-app-creado-para-publicar-las-próximas-actualizaciones-y-novedades-de-la-aplicación)
 2. [Aplicación Web](#mygalaxycatalogue-web-app)
     - [Home](#home-1)
+	- [Escaparate](#escaparate)
+		- [Versión Web/3 Columnas](#versión-web3-columnas)
+		- [Versión Tablet/2 Columnas](#versión-tablet2-columnas)
+		- [Versión Móvil/1 Columna](#versión-móvil1-columna)
+	- [Estadísticas](#estadísticas)
+	- [FAQ / Preguntas Frecuentes](#faq--preguntas-frecuentes)
 	
-* [Aplicación Android](#mygalaxycatalogue-android-app)
-* [Aplicación Web](#mygalaxycatalogue-web-app)
-
 # MyGalaxyCatalogue Android App
 
 ### Aplicación para dispositivos móviles basada en Android Studio y Firebase (Realtime Database, Storage y Auth), está sencilla aplicación nos permite crear nuestro propio catálogo de productos/servicios/etc y almacenarla en la nube para que el resto de la comunidad pueda contactar con usted, vamos a echar un vistazo a su interfaz:
