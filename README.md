@@ -25,6 +25,8 @@
 	- [Estadísticas](#estadísticas)
 	- [FAQ / Preguntas Frecuentes](#faq--preguntas-frecuentes)
 4. [Descarga del APK](https://github.com/SalvaRebollo/MyGalaxyCatalogueFinal/blob/master/MyGalaxyCatalogue.apk)
+* [API REST en PHP con conexión MySQL hosteada en Heroku](https://my-galaxy-catalogue-php.herokuapp.com/)
+* [Servicio usado para crear y administrar una base de datos MySQL remota](https://remotemysql.com/)
 
 # Tecnologías utilizadas
 <img width="100%" src="/img/tecnologias1.jpg">
