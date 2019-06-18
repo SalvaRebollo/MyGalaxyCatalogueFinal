@@ -30,6 +30,7 @@
 
 #### Perfil del usuario logeado
 <img width="400px" src="/img/2.gif">
+
 #### Visitando un perfil de la comunidad
 <img width="400px" src="/img/verPerfil.gif">
 
