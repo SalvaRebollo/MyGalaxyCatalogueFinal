@@ -29,7 +29,10 @@
 </div>
 
 #### Perfil del usuario logeado
-<img width="400px" src="/img/2.gif">
+<div>
+  <img width="400px" src="/img/2.gif">
+  <img width="400px" src="/img/perfil.jpeg">
+</div>
 
 #### Visitando un perfil de la comunidad
 <div>
