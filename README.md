@@ -2,7 +2,7 @@
 # MyGalaxyCatalogue
 <img width="400px" src="/img/logo.png">
 
-## Developed by SalvaRebollo 2º Desarrollo de Aplicaciones Multiplataforma
+### Developed by SalvaRebollo 2º Desarrollo de Aplicaciones Multiplataforma
 
 ## Índice
 1. [Tecnologías utilizadas](#tecnologías-utilizadas)
@@ -13,7 +13,8 @@
 	- [Detalles del producto/servicio](#cuando-pulsamos-un-producto-se-nos-abre-su-información-para-poder-verla-más-en-detalle-y-contactar-con-el-creador)
 	- [Añadir producto/servicio](#añadir-un-productoservicio)
 	- [Elegir entre cámara o galería](#elegir-entre-cámara-o-galería)
-	- [Para borrar y editar un producto/servicio](#para-borrar-y-editar-un-productoservicio)
+	- [Borrar y editar un producto/servicio](#para-borrar-y-editar-un-productoservicio)
+	- [Acceso anónimo](#acceso-anónimo)
 	- [Tablón de novedades](#tablón-de-novedades-botón-acerca-de-la-app-creado-para-publicar-las-próximas-actualizaciones-y-novedades-de-la-aplicación)
 3. [Aplicación Web](#mygalaxycatalogue-web-app)
     - [Home](#home-1)
@@ -49,7 +50,7 @@
 
 <img width="100%" src="/img/screenshotsandpresentation/MyGalaxyCatalogue Exp_page-0006.jpg">
 
-## HOME: 
+## HOME
 
 #### Aquí se muestra nuestro catálogo con los productos que hemos ido añadiendo + los del resto de la comunidad. Como peculiaridad y gracias a la tecnología de Firebase no hay absolutamente ningún botón de cargar o actualizar en toda la aplicación, ya que esta se mantendrá 100% actualizada en tiempo real mientras tenga conexión a internet.
 <div>
@@ -87,12 +88,21 @@
   <img width="400px" src="/img/1 (6).gif">
 </div>
 
+## Acceso anónimo
+### El acceso anónimo nos brinda el acceso sin registro a la aplicación pero con funciones más limitadas como la subida de productos/servicios o la creación de tu perfil, esta funcionará a modo de escaparate donde podrás revisar únicamente los productos/servicios subidos por los demás.
+<div>
+  <img width="400px" src="/img/anonimo.gif">
+  <img width="400px" src="/img/anonimo.jpeg">
+</div>
+
 ## Tablón de novedades, botón "Acerca de la app" creado para publicar las próximas actualizaciones y novedades de la aplicación.
 <div>
   <img width="400px" src="/img/1.gif">
 </div>
 
 # MyGalaxyCatalogue Web App
+
+### La aplicación web funciona como landing page a modo de publicidad e incentivo para descargar la aplicación Android, en ella podrás descargar la aplicación, acceder a este repositorio para tener acceso al source-code, ver el escaparate de la web con todos los productos/servicios, estadísticas de productos/servicios compartidos y una página de preguntas frecuentes o "FAQ". Funciona con Apache Wicket Framework como motor servlet y es empleado en procesos como el enrutamiento de paginas, obtención de datos, iteración de tarjetas usando modelos, paneles y diferentes componentes de Wicket, etc Veamos cada una de sus pestañas con sus diferentes vistas:
 
 ## HOME
 <img width="100%" src="/img/home.gif">
