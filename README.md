@@ -32,7 +32,10 @@
 <img width="400px" src="/img/2.gif">
 
 #### Visitando un perfil de la comunidad
-<img width="400px" src="/img/verPerfil.gif">
+<div>
+  <img width="400px" src="/img/verPerfil.gif">
+  <img width="400px" src="/img/verPerfil.jpeg">
+</div>
 
 #### Cuando pulsamos un producto se nos abre su información para poder verla más en detalle y contactar con el creador:
 <img width="400px" src="/img/1 (8).gif">
