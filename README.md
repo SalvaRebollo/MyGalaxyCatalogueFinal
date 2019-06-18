@@ -94,6 +94,7 @@
 ### El acceso anónimo nos brinda el acceso sin registro a la aplicación pero con funciones más limitadas como la subida de productos/servicios o la creación de tu perfil, esta funcionará a modo de escaparate donde podrás revisar únicamente los productos/servicios subidos por los demás.
 <div>
   <img width="400px" src="/img/anonimo.gif">
+  ### Opciones limitadas
   <img width="400px" src="/img/anonimo.jpeg">
 </div>
 
