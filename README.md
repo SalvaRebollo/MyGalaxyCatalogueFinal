@@ -30,6 +30,8 @@
 
 #### Perfil del usuario logeado
 <img width="400px" src="/img/2.gif">
+#### Visitando un perfil de la comunidad
+<img width="400px" src="/img/verPerfil.gif">
 
 #### Cuando pulsamos un producto se nos abre su información para poder verla más en detalle y contactar con el creador:
 <img width="400px" src="/img/1 (8).gif">
@@ -37,6 +39,11 @@
 #### Añadir un producto/servicio:
 <div>
   <img width="400px" src="/img/1 (1).gif">
+</div>
+
+### Elegir entre cámara o galería
+<div>
+  <img width="400px" src="/img/modalElegirImg.gif">
 </div>
 
 #### Para borrar y editar un producto/servicio:
