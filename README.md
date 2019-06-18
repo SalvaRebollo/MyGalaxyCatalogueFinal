@@ -6,10 +6,16 @@
 
 ## Índice
 1. [Aplicación Android](#mygalaxycatalogue-android-app)
-    - [Aplicación Android](#mygalaxycatalogue-android-app)
-    - [Aplicación Web](#mygalaxycatalogue-web-app)
+    - [Home](#home)
+    - [Perfil del usuario logeado](#perfil-del-usuario-logeado)
+	- [Visitando un perfil de la comunidad](#visitando-un-perfil-de-la-comunidad)
+	- [Detalles del producto/servicio](#cuando-pulsamos-un-producto-se-nos-abre-su-información-para-poder-verla-más-en-detalle-y-contactar-con-el-creador)
+	- [Añadir producto/servicio](#añadir-un-productoservicio)
+	- [Elegir entre cámara o galería](#elegir-entre-cámara-o-galería)
+	- [Para borrar y editar un producto/servicio](#para-borrar-y-editar-un-productoservicio)
+	- [Tablón de novedades](#tablón-de-novedades-botón-acerca-de-la-app-creado-para-publicar-las-próximas-actualizaciones-y-novedades-de-la-aplicación)
 2. [Aplicación Web](#mygalaxycatalogue-web-app)
-    - [Aplicación Android](#mygalaxycatalogue-android-app)
+    - [Home](#home-1)
 	
 * [Aplicación Android](#mygalaxycatalogue-android-app)
 * [Aplicación Web](#mygalaxycatalogue-web-app)
