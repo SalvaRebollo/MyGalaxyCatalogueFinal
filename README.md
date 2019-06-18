@@ -1,7 +1,4 @@
 # MyGalaxyCatalogue
-<img width="400px" src="/img/logo.png">
-
-### Developed by SalvaRebollo 2º Desarrollo de Aplicaciones Multiplataforma
 
 ## Índice
 1. [Tecnologías utilizadas](#tecnologías-utilizadas)
@@ -26,6 +23,10 @@
 4. [Descarga del APK](https://github.com/SalvaRebollo/MyGalaxyCatalogueFinal/blob/master/MyGalaxyCatalogue.apk)
 * [API REST en PHP con conexión MySQL hosteada en Heroku](https://my-galaxy-catalogue-php.herokuapp.com/)
 * [Servicio usado para crear y administrar una base de datos MySQL remota](https://remotemysql.com/)
+
+<img width="400px" src="/img/logo.png">
+
+### Developed by SalvaRebollo 2º Desarrollo de Aplicaciones Multiplataforma
 
 # Tecnologías utilizadas
 <img width="100%" src="/img/tecnologias1.jpg">
